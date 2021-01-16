@@ -3,6 +3,14 @@
 
 ![](image-2.png)
 
+# WORKS ON:
+
+**Linux**
+
+**Windows**
+
+**Termux**
+
 # [!] HOW TO INSTALL (Linux):
 
 **git clone https://github.com/MrEmpy/dark-raid.git**
