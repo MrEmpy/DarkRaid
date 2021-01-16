@@ -27,7 +27,7 @@
 
 **Download the repository**
 
-**Extract the folder**
+**Extract the archive**
 
 **Open Windows CMD in folder**
 
