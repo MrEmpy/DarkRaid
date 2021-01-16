@@ -1,7 +1,7 @@
 # dark-raid
 「💣」Discord Raid
 
-![](image.png)
+![](image-2.png)
 
 # [!] HOW TO INSTALL (Linux):
 
@@ -14,3 +14,7 @@
 **chmod +x dark_raid.py**
 
 **./dark_raid.py --help**
+
+# HELP:
+
+![](image.png)
