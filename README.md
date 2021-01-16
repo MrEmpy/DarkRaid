@@ -11,7 +11,7 @@
 
 **Termux**
 
-# [!] HOW TO INSTALL (Linux):
+# [!] HOW TO INSTALL (Linux and Termux):
 
 **git clone https://github.com/MrEmpy/dark-raid.git**
 
@@ -22,6 +22,18 @@
 **chmod +x dark_raid.py**
 
 **./dark_raid.py --help**
+
+# [!] HOW TO INSTALL (Windows):
+
+**Download the repository**
+
+**Extract the folder**
+
+**Open Windows CMD in folder**
+
+**pip install -r requirements.txt**
+
+**python dark_raid.py OR dark_raid.py**
 
 # HELP:
 
