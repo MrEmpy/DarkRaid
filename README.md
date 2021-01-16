@@ -1,5 +1,5 @@
-# dark-raid
-「💣」Discord Raid
+# Dark Raid - 「💣」Discord Raid
+
 
 ![](image-2.png)
 
