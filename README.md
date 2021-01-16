@@ -1,0 +1,2 @@
+# dark-raid
+「💣」Discord Raid
