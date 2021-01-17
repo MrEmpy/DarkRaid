@@ -21,6 +21,8 @@
 
 **chmod +x dark_raid.py**
 
+**Put the tokens in tokens.txt**
+
 **./dark_raid.py --help**
 
 # [!] HOW TO INSTALL (Windows):
@@ -32,6 +34,8 @@
 **Open Windows CMD in folder**
 
 **pip install -r requirements.txt**
+
+**Put the tokens in tokens.txt**
 
 **python dark_raid.py OR dark_raid.py**
 
