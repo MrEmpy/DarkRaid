@@ -222,6 +222,6 @@ if __name__ == '__main__':
         attack()
 
     if menu[0] == '--leave':
-        leave()
+        leave_server()
     if menu[0] == '--check':
         check_tokens()
