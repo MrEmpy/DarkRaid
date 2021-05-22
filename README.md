@@ -13,7 +13,7 @@
 
 # [!] HOW TO INSTALL (Linux and Termux):
 
-**git clone https://github.com/MrEmpy/dark-raid.git**
+**git clone https://github.com/MrEmpy/DarkRaid.git**
 
 **cd dark-raid**
 
